@@ -25,3 +25,16 @@ nav li {
 	font: 10%;
 	padding: 5em;
 }
+
+/*add other effects on the link*/
+
+article {
+	width: 460px;
+	float: left;
+	margin: 10px;
+}
+
+footer {
+	font-size: 10px;
+	padding: 5px 0;
+}
