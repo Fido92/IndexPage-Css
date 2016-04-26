@@ -109,8 +109,8 @@ nav a:hover {
 article {
 	background-color: #00ffff;
 	width: 460px;
-	float: left;
 	margin: 10px;
+	text-align: center;
 }
 
 #extended {
@@ -118,6 +118,12 @@ article {
 	width: 700px;
 	float: left;
 	margin: 10px;
+}
+
+#chords {
+	width: 700px;
+	text-align: center;
+	margin: auto;
 }
 
 #footer {
